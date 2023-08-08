@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">Hola soy Jean Pierre un desarrolador front-end y back-end 👨‍💻</h1>
+<h1 align="center">Hola soy Jean Pierre un desarrollador front-end y back-end 👨‍💻</h1>
 
 ###
 
