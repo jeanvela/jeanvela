@@ -50,7 +50,6 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=express" height="70" alt="express logo"  />
   <img width="15" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" height="70" alt="fastapi logo"  /> -->
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="70" alt="mongodb logo"  />
   <img width="15" />
