@@ -23,7 +23,13 @@
 
 ###
 
-<p align="left">Me apasiona el mundo de la tecnología y estoy especializado en el desarrollo web utilizando tecnologías como React, TypeScript, CSS, JavaScript, Redux, Node.js, Express, MongoDB, Mongoose y Tailwind CSS.<br><br>Desde muy joven, siempre he sentido una gran curiosidad y fascinación por la tecnología. Siempre estaba intrigado por cómo funcionaban los dispositivos electrónicos y cómo podían mejorar nuestras vidas. A medida que fui creciendo, esa pasión se transformó en un interés más profundo por la programación.<br><br>Recuerdo que mi primer lenguaje de programación fue JavaScript. Comencé a explorar el mundo de la programación a través de videos y tutoriales en línea. Me sorprendió la versatilidad de JavaScript y cómo podía utilizarse tanto en el lado del cliente como en el lado del servidor. Esto me motivó a profundizar mis conocimientos y a aprender más sobre el desarrollo web.</p>
+<p align="left">Hola, soy Jean Pierre, un apasionado de la tecnología y la programación con 21 años de edad. Desde una temprana edad, mi fascinación por la informática me llevó a adentrarme en el emocionante mundo del desarrollo web.
+
+Una de mis experiencias más enriquecedoras fue trabajar en una startup, donde tuve la oportunidad de enfrentar desafíos emocionantes y aprender de ellos. Como desarrollador full stack, he trabajado tanto en el frontend como en el backend, lo que me ha brindado una visión completa del desarrollo de aplicaciones y la capacidad de crear proyectos desde cero.
+
+Siempre estoy abierto a nuevas oportunidades y desafíos, y estoy emocionado por lo que depara el futuro en mi carrera de desarrollo. Estoy dispuesto a contribuir y colaborar en proyectos emocionantes, así que no dudes en contactarme si crees que puedo ser un buen ajuste para tu equipo o proyecto.
+
+¡Espero tener la oportunidad de trabajar juntos y crear cosas asombrosas en el mundo de la tecnología!</p>
 
 ###
 
