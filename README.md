@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Hola, soy Jean Pierre, un apasionado de la tecnología y la programación con 21 años de edad. Desde una temprana edad, mi fascinación por la informática me llevó a adentrarme en el emocionante mundo del desarrollo web.
+<p align="left">Hola, soy Jean Pierre, un apasionado de la tecnología y la programación con 22 años de edad. Desde una temprana edad, mi fascinación por la informática me llevó a adentrarme en el emocionante mundo del desarrollo web.
 
 Una de mis experiencias más enriquecedoras fue trabajar en una startup, donde tuve la oportunidad de enfrentar desafíos emocionantes y aprender de ellos. Como desarrollador full stack, he trabajado tanto en el frontend como en el backend, lo que me ha brindado una visión completa del desarrollo de aplicaciones y la capacidad de crear proyectos desde cero.
 
