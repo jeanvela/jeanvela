@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">Hola soy Jean Pierre un desarrolador front-end y back-end 👨‍💻</h1>
+<h1 align="center">Hola soy Jean Pierre un desarrollador front-end y back-end 👨‍💻</h1>
 
 ###
 
@@ -23,13 +23,7 @@
 
 ###
 
-<p align="left">Hola, soy Jean Pierre, un apasionado de la tecnología y la programación con 22 años de edad. Desde una temprana edad, mi fascinación por la informática me llevó a adentrarme en el emocionante mundo del desarrollo web.
-
-Una de mis experiencias más enriquecedoras fue trabajar en una startup, donde tuve la oportunidad de enfrentar desafíos emocionantes y aprender de ellos. Como desarrollador full stack, he trabajado tanto en el frontend como en el backend, lo que me ha brindado una visión completa del desarrollo de aplicaciones y la capacidad de crear proyectos desde cero.
-
-Siempre estoy abierto a nuevas oportunidades y desafíos, y estoy emocionado por lo que depara el futuro en mi carrera de desarrollo. Estoy dispuesto a contribuir y colaborar en proyectos emocionantes, así que no dudes en contactarme si crees que puedo ser un buen ajuste para tu equipo o proyecto.
-
-¡Espero tener la oportunidad de trabajar juntos y crear cosas asombrosas en el mundo de la tecnología!</p>
+<p align="left"></p>
 
 ###
 
