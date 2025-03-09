@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋! MI nombre es Jean Pierre, soy desarrollador fullstack</h2>
+<h2 align="left">Hola 👋! MI nombre es Jean Pierre, soy desarrollador de software</h2>
 
 ###
 
